@@ -1,0 +1,11 @@
+body{
+    color:white;
+    background-image: linear-gradient(to right, #69aee4, #4da7e2, #1882c1, #0a73aa, #006494);
+}
+.heading{
+    width:80%;
+    font-size: 22px;
+}
+.name_of_objects,#result_object_name,#result_object_accuracy{
+    color:white;
+}
